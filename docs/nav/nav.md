@@ -1,0 +1,97 @@
+# 网址导航—持续维护
+
+## 对**国内技术社区**
+
+博客园 [https://www.cnblogs.com/](https://www.cnblogs.com/)
+
+掘金 [https://juejin.cn/](https://juejin.cn/)
+
+思否 [https://segmentfault.com/](https://segmentfault.com/)
+
+开源中国 [https://www.oschina.net/](https://www.oschina.net/)
+
+51CTO [https://www.51cto.com/](https://www.51cto.com/)
+
+V2EX [https://www.v2ex.com/](https://www.v2ex.com/)
+
+开发者头条 [https://toutiao.io/](https://toutiao.io/)
+
+GitChat [https://gitbook.cn/](https://gitbook.cn/)
+
+知乎 https://www.zhihu.com/
+
+牛客网 [https://www.nowcoder.com/](https://www.nowcoder.com/) 一个互联网求职学习交流社区。
+
+## **国外技术社区**
+
+Stack Overflow [https://stackoverflow.com/](https://stackoverflow.com/) 全球最活跃的程序员技术问答交流社区，程序员的所有问题都能在上面找到答案。
+
+Medium [https://medium.com/](https://medium.com/)
+
+## **学编程的教程网站**
+
+菜鸟教程 [https://www.runoob.com/](https://www.runoob.com/)
+
+W3Cschool [https://www.w3cschool.cn/](https://www.w3cschool.cn/)
+
+[http://how2j.cn](https://link.zhihu.com/?target=http%3A//how2j.cn) [https://how2j.cn/](https://how2j.cn/)
+
+易百教程 [https://www.yiibai.com/](https://www.yiibai.com/)
+
+并发编程网 [https://ifeve.com/](https://ifeve.com/)
+
+帅地玩编程 [https://www.iamshuaidi.com/](https://www.iamshuaidi.com/)
+
+吴师兄学编程 [https://www.cxyxiaowu.com/](https://www.cxyxiaowu.com/)
+
+## **视频教程网站**
+
+B站 [https://www.bilibili.com/](https://www.bilibili.com/)
+
+慕课网 [https://www.imooc.com/](https://www.imooc.com/)
+
+中国大学MOOC [https://www.icourse163.org/](https://www.icourse163.org/)
+
+## **开源社区**
+
+GitHub [https://github.com/](https://github.com/) 全球最大开源社区，被戏称为全球最大同性交友网站。
+
+码云 [https://gitee.com/](https://gitee.com/) 可以看做GitHub的国内版，GitHub虽好，但GitHub服务器在美国，网络方面main一直是个问题，这种情况下，码云是个不错的替代者。
+
+## **面试刷题**
+
+LeetCode力扣 [https://leetcode-cn.com/](https://leetcode-cn.com/) 经典的刷题网站，主要是算法题。
+
+LintCode [https://www.lintcode.com/](https://www.lintcode.com/) 和LeetCode类似
+
+刷题笔记：[两份高质量刷题笔记](https://mp.weixin.qq.com/s/Eb0EFGOdHutmg8QDq4363A)
+
+## **电子书**
+
+书栈网 [https://www.bookstack.cn/](https://www.bookstack.cn/)
+
+码农之家 [https://www.xz577.com/](https://www.xz577.com/)
+
+豆瓣高分计算机书单：[少走弯路，计算机豆瓣高分书单](https://mp.weixin.qq.com/s%3F__biz%3DMzU3MTg3NDYwNg%3D%3D%26mid%3D100002250%26idx%3D1%26sn%3Dd362fb3a5b4a58e6d9eeeb0334823a14%26chksm%3D7cd8c58b4baf4c9d39105a24461352c9309858c0380964f59323cca6b2f15c20c908c10a0de9%23rd)
+
+## 接私活转外块的网站
+
+猪八戒 [https://www.zbj.com/](https://www.zbj.com/)
+
+程序员客栈 [https://www.proginn.com/](https://www.proginn.com/)
+
+码市 [https://codemart.com/](https://codemart.com/)
+
+开源中国众包平台 [https://zb.oschina.net/](https://zb.oschina.net/)
+
+人人开发 [http://www.rrkf.com/](https://link.zhihu.com/?target=http%3A//www.rrkf.com/)
+
+## 大佬的博客/网站
+
+阮一峰：[http://www.ruanyifeng.com/home.html](https://link.zhihu.com/?target=http%3A//www.ruanyifeng.com/home.html) 计算机科普博主
+
+陈浩：[https://www.coolshell.cn/](https://www.coolshell.cn/) 左耳朵耗子
+
+廖雪峰 [https://www.liaoxuefeng.com/](https://www.liaoxuefeng.com/) Python启蒙老师，Python，Git系列教程作者
+
+王垠 [http://www.yinwang.org/](https://link.zhihu.com/?target=http%3A//www.yinwang.org/) 每写一篇文章都能引发争议的前Google程序员
